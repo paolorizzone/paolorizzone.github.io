@@ -1,1 +1,10 @@
+body {
+    font-family: 'Source Code Pro';font-size: 20px;
+}
 
+:root {
+    --bgc: #242F9B;
+    --btnc: #9BA3EB;
+    --abtnc: #646FD4;
+    --txtc: #DBDFFD;
+}
