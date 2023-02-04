@@ -10,7 +10,3 @@ body {
 *{
     background-color: var(--bgc);
 }
-
-.blue {
-    color: blue;
-}
