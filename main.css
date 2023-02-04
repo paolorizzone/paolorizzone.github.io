@@ -10,3 +10,7 @@ body {
 *{
     background-color: #0057ff;
 }
+
+.wishlist {
+    background-color: var(--bgc);
+}
