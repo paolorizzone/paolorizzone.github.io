@@ -3,8 +3,6 @@ body {
 }
 
 :root {
-    --bgc: #242F9B;
-    --btnc: #9BA3EB;
-    --abtnc: #646FD4;
-    --txtc: #DBDFFD;
+    --bgc: #efe7dd;
+    --txtc: #764b36;
 }
