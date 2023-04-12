@@ -1,7 +1,39 @@
 .u-section-1 .u-sheet-1 {
-  min-height: 60%;
+  min-height: 600px;
 }
 
 .u-section-1 .u-text-1 {
   margin: 60px auto;
+}
+
+body {
+    font-family: 'Source Code Pro';font-size: 20px;
+}
+
+:root {
+    --acolor: #efe7dd;
+    --bcolor: #764b36;
+    --ccolor: #9b4922;
+    --dcolor: #d1774c;
+    --ecolor: #d8a790;
+}
+
+.acolor {
+  color: --acolor
+}
+
+.bcolor {
+  color: --bcolor
+}
+
+.ccolor {
+  color: --ccolor
+}
+
+.dcolor {
+  color: --dcolor
+}
+
+.ecolor {
+  color: --ecolor
 }
